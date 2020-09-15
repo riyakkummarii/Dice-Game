@@ -1,0 +1,35 @@
+h1,h3
+{
+  color: #4ECCA3;
+
+}
+body{
+  background-color: #393E46;;
+  text-align: center;
+    font-family: 'Lobster', cursive;
+}
+.huge
+{
+  font-weight: bold;
+  font-size: 10rem;
+  margin: 3% auto 0;
+
+}
+.dice{
+  color: #4ECCA3;
+  display:inline-block;
+  margin: 2%;
+}
+
+footer{
+
+  margin-top: 5%;
+  color: #EEEEEE;;
+}
+.div1, .div2 {
+  flex: 0 0 50%;
+}
+.div3{ 
+  flex: 0 0 100%;
+  
+}
